@@ -56,18 +56,36 @@ public class Variables {
 		 */
 		
 		/*
-		 =
-		 +=
-		 -=
-		 *=
-		 /=
-		 %=
+		 = → x=5;
+		 += → x=x+6;
+		 -= → x=x-7;
+		 *= → x=x*8;
+		 /= → x=x/5;
+		 %= →x=x%2;
 		 */
 		
 		/*
 		 * Operadores de comparación
 		 */
 		
+		/*
+		 == → Igual a
+		 != → Distinto a
+		 > → Mayor que
+		 < → Menor que
+		 >= → Mayor o igual que
+		 <= → Menor o igual que
+		 */
+		
+		/*
+		 * Operadores lógicos
+		 */
+		
+		/*
+		 && → AND
+		 || → OR
+		 ! → Not
+		 */
 
 	}
 
